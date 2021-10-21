@@ -1,0 +1,231 @@
+{
+  "Overlays": [
+    {
+      "forceWhiteBackground": false,
+      "GlobalHotkeys": [],
+      "ActwsCompatibility": false,
+      "NoFocus": false,
+      "Zoom": 1,
+      "ForceWhiteBackground": false,
+      "MuteWhenHidden": false,
+      "Name": "Mini Parse",
+      "Uuid": "4fb96ed8-3ef1-4057-935d-b17923cd8177",
+      "IsVisible": false,
+      "Disabled": false,
+      "IsClickThru": false,
+      "Position": "-723, 249",
+      "Size": "476, 282",
+      "Url": "file:///C:/Users/nsoonkea/AppData/Roaming/Advanced%20Combat%20Tracker/Plugins/OverlayPlugin/resources/miniparse.html",
+      "MaxFrameRate": 30,
+      "GlobalHotkeyEnabled": false,
+      "GlobalHotkey": 0,
+      "GlobalHotkeyModifiers": 0,
+      "GlobalHotkeyType": 0,
+      "IsLocked": false,
+      "LogConsoleMessages": true,
+      "$type": "RainbowMage.OverlayPlugin.Overlays.MiniParseOverlayConfig, OverlayPlugin.Core, Version=0.16.6.0, Culture=neutral, PublicKeyToken=null"
+    },
+    {
+      "forceWhiteBackground": false,
+      "GlobalHotkeys": [],
+      "ActwsCompatibility": false,
+      "NoFocus": true,
+      "Zoom": 1,
+      "ForceWhiteBackground": false,
+      "MuteWhenHidden": false,
+      "Name": "testnew",
+      "Uuid": "7eb8bd63-2f8b-48a1-a3ee-3140a4b7a8ff",
+      "IsVisible": false,
+      "Disabled": false,
+      "IsClickThru": false,
+      "Position": "3847, 1181",
+      "Size": "500, 300",
+      "Url": "https://hibiyasleep.github.io/kagerou/overlay/",
+      "MaxFrameRate": 30,
+      "GlobalHotkeyEnabled": false,
+      "GlobalHotkey": 0,
+      "GlobalHotkeyModifiers": 0,
+      "GlobalHotkeyType": 0,
+      "IsLocked": false,
+      "LogConsoleMessages": true,
+      "$type": "RainbowMage.OverlayPlugin.Overlays.MiniParseOverlayConfig, OverlayPlugin.Core, Version=0.16.6.0, Culture=neutral, PublicKeyToken=null"
+    },
+    {
+      "forceWhiteBackground": false,
+      "GlobalHotkeys": [],
+      "ActwsCompatibility": false,
+      "NoFocus": true,
+      "Zoom": 1,
+      "ForceWhiteBackground": false,
+      "MuteWhenHidden": false,
+      "Name": "raidBoss Alerts",
+      "Uuid": "12885d15-007c-4c89-934b-8ed2d55962a7",
+      "IsVisible": true,
+      "Disabled": false,
+      "IsClickThru": true,
+      "Position": "1184, 793",
+      "Size": "1100, 300",
+      "Url": "file:///C:/Users/nsoonkea/AppData/Roaming/Advanced%20Combat%20Tracker/Plugins/cactbot-0.13.0/cactbot/ui/raidboss/raidboss.html?timeline=0&alerts=1",
+      "MaxFrameRate": 30,
+      "GlobalHotkeyEnabled": false,
+      "GlobalHotkey": 0,
+      "GlobalHotkeyModifiers": 0,
+      "GlobalHotkeyType": 0,
+      "IsLocked": true,
+      "LogConsoleMessages": true,
+      "$type": "RainbowMage.OverlayPlugin.Overlays.MiniParseOverlayConfig, OverlayPlugin.Core, Version=0.16.6.0, Culture=neutral, PublicKeyToken=null"
+    },
+    {
+      "forceWhiteBackground": false,
+      "GlobalHotkeys": [],
+      "ActwsCompatibility": false,
+      "NoFocus": true,
+      "Zoom": 1,
+      "ForceWhiteBackground": false,
+      "MuteWhenHidden": false,
+      "Name": "raidBoss Timeline",
+      "Uuid": "f6e2affd-ca81-472a-be99-108a0945c38b",
+      "IsVisible": true,
+      "Disabled": false,
+      "IsClickThru": true,
+      "Position": "1581, 590",
+      "Size": "2560, 1440",
+      "Url": "file:///C:/Users/nsoonkea/AppData/Roaming/Advanced%20Combat%20Tracker/Plugins/cactbot-0.13.0/cactbot/ui/raidboss/raidboss.html?timeline=1&alerts=0",
+      "MaxFrameRate": 30,
+      "GlobalHotkeyEnabled": false,
+      "GlobalHotkey": 0,
+      "GlobalHotkeyModifiers": 0,
+      "GlobalHotkeyType": 0,
+      "IsLocked": true,
+      "LogConsoleMessages": true,
+      "$type": "RainbowMage.OverlayPlugin.Overlays.MiniParseOverlayConfig, OverlayPlugin.Core, Version=0.16.6.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "FollowLatestLog": false,
+  "HideOverlaysWhenNotActive": true,
+  "HideOverlayDuringCutscene": true,
+  "ErrorReports": false,
+  "UpdateCheck": true,
+  "WSServerIP": "127.0.0.1",
+  "WSServerPort": 10501,
+  "WSServerSSL": false,
+  "WSServerRunning": true,
+  "TunnelRegion": "ap - Asia/Pacific (Singapore)",
+  "Version": null,
+  "LastUpdateCheck": "2021-10-19T11:19:21.2496108+08:00",
+  "EventSourceConfigs": {
+    "MiniParse": {
+      "OverlayData": {
+        "ember-settings-production": "ewAiAGkAbgB0AHIAaQBuAHMAaQBjACIAOgB7ACIAdABhAGIAbABlAF8AdAB5AHAAZQAiADoAIgBkAHAAcwAiACwAIgBjAG8AbABsAGEAcABzAGUAZAAiADoAZgBhAGwAcwBlACwAIgBjAHUAcgByAGUAbgB0AF8AdgBlAHIAcwBpAG8AbgAiADoAbgB1AGwAbAAsACIAbABhAHMAdABfAHYAZQByAHMAaQBvAG4AIgA6AG4AdQBsAGwALAAiAHAAbABhAHkAZQByAF8AYgBsAHUAcgAiADoAZgBhAGwAcwBlAH0ALAAiAGkAbgB0AGUAcgBmAGEAYwBlACIAOgB7ACIAcABsAGEAeQBlAHIAXwBuAGEAbQBlACIAOgAiAFkATwBVACIALAAiAG8AcABhAGMAaQB0AHkAIgA6ADEAMAAwACwAIgB6AG8AbwBtACIAOgAxADAAMAAsACIAdABvAHAAXwByAGkAZwBoAHQAXwByAGEAbgBrACIAOgBmAGEAbABzAGUALAAiAGIAbAB1AHIAXwBqAG8AYgBfAGkAYwBvAG4AcwAiADoAZgBhAGwAcwBlACwAIgBjAG8AbABsAGEAcABzAGUAXwBkAG8AdwBuACIAOgBmAGEAbABzAGUALAAiAGwAaQBnAGgAdABfAHQAaABlAG0AZQAiADoAZgBhAGwAcwBlACwAIgBtAGkAbgBpAG0AYQBsAF8AdABoAGUAbQBlACIAOgBmAGEAbABzAGUALAAiAGYAbwBvAHQAZQByAF8AdwBoAGUAbgBfAGMAbwBsAGwAYQBwAHMAZQBkACIAOgBmAGEAbABzAGUALAAiAGYAbwBvAHQAZQByAF8AZABwAHMAIgA6AGYAYQBsAHMAZQAsACIAZABlAGMAaQBtAGEAbABfAGEAYwBjAHUAcgBhAGMAeQAiADoAMgAsACIAcwBoAG8AcgB0AGUAbgBfAHQAaABvAHUAcwBhAG4AZABzACIAOgBmAGEAbABzAGUALAAiAGwAYQBuAGcAdQBhAGcAZQAiADoAIgBlAG4AIgAsACIAYQB1AHQAbwBfAGgAaQBkAGUAIgA6AGYAYQBsAHMAZQAsACIAYQB1AHQAbwBfAGgAaQBkAGUAXwBkAGUAbABhAHkAIgA6ADAAfQAsACIAYwB1AHMAdABvAG0AIgA6AHsAIgBjAHMAcwAiADoAIgAiACwAIgBtAGUAdAByAGkAYwBfAG4AYQBtAGUAcwAiADoAewB9AH0ALAAiAHQAYQBiAGwAZQBfAHMAZQB0AHQAaQBuAGcAcwAiADoAewAiAGcAZQBuAGUAcgBhAGwAIgA6AHsAIgB0AGEAYgBsAGUAIgA6AHsAIgBzAGgAbwByAHQAXwBuAGEAbQBlAHMAIgA6ACIAbgBvAF8AcwBoAG8AcgB0ACIALAAiAGYAbwBvAHQAZQByAF8AYQB0AF8AdABvAHAAIgA6AGYAYQBsAHMAZQAsACIAcABlAHIAYwBlAG4AdABfAGIAYQByAHMAIgA6AHQAcgB1AGUALAAiAHAAcgBpAG8AcgBpAHQAaQB6AGUAXwBwAGEAcgB0AHkAIgA6AGYAYQBsAHMAZQB9ACwAIgByAGEAaQBkACIAOgB7ACIAcwBoAG8AcgB0AF8AbgBhAG0AZQBzACIAOgAiAG4AbwBfAHMAaABvAHIAdAAiACwAIgBwAGUAcgBjAGUAbgB0AF8AYgBhAHIAcwAiADoAdAByAHUAZQAsACIAcAByAGkAbwByAGkAdABpAHoAZQBfAHAAYQByAHQAeQAiADoAZgBhAGwAcwBlAH0AfQAsACIAZABwAHMAIgA6AHsAIgBzAGgAbwB3AF8AZgBvAG8AdABlAHIAIgA6AHQAcgB1AGUAfQAsACIAaABlAGEAbAAiADoAewAiAHMAaABvAHcAXwBmAG8AbwB0AGUAcgAiADoAdAByAHUAZQB9ACwAIgB0AGEAbgBrACIAOgB7ACIAcwBoAG8AdwBfAGYAbwBvAHQAZQByACIAOgB0AHIAdQBlAH0AfQAsACIAdABhAGIAbABlAF8AYwBvAGwAdQBtAG4AcwAiADoAewAiAGQAcABzACIAOgBbACIAZABhAG0AYQBnAGUAJQAiACwAIgBlAG4AYwBkAHAAcwAiACwAIgBjAHIAaQB0AGgAaQB0ACUAIgAsACIARABpAHIAZQBjAHQASABpAHQAUABjAHQAIgAsACIAQwByAGkAdABEAGkAcgBlAGMAdABIAGkAdABQAGMAdAAiAF0ALAAiAGgAZQBhAGwAIgA6AFsAIgBoAGUAYQBsAGUAZAAlACIALAAiAGUAZgBmAGUAYwB0AGkAdgBlAF8AaABlAGEAbABfAHAAYwB0ACIALAAiAGUAbgBjAGgAcABzACIALAAiAGUAZgBmAGUAYwB0AGkAdgBlAF8AaABwAHMAIgAsACIATwB2AGUAcgBIAGUAYQBsAFAAYwB0ACIALAAiAGMAcgBpAHQAaABlAGEAbAAlACIAXQAsACIAdABhAG4AawAiADoAWwAiAGQAYQBtAGEAZwBlAF8AdABhAGsAZQBuAF8AcABjAHQAIgAsACIAZQBuAGMAdABwAHMAIgAsACIAZABhAG0AYQBnAGUAdABhAGsAZQBuACIALAAiAGgAZQBhAGwAcwB0AGEAawBlAG4AIgAsACIAQgBsAG8AYwBrAFAAYwB0ACIALAAiAFAAYQByAHIAeQBQAGMAdAAiACwAIgBkAGUAYQB0AGgAcwAiAF0ALAAiAHIAYQBpAGQAIgA6AHsAIgBkAHAAcwAiADoAWwAiAGUAbgBjAGQAcABzACIALAAiAGUAbgBjAGgAcABzACIAXQAsACIAaABlAGEAbAAiADoAWwAiAGUAbgBjAGgAcABzACIALAAiAGUAbgBjAGQAcABzACIAXQAsACIAdABhAG4AawAiADoAWwAiAGUAbgBjAGQAcABzACIALAAiAGUAbgBjAGgAcABzACIAXQB9AH0ALAAiAHMAbwByAHQAXwBjAG8AbAB1AG0AbgBzACIAOgB7ACIAZABwAHMAIgA6ACIAZABhAG0AYQBnAGUAIgAsACIAaABlAGEAbAAiADoAIgBoAGUAYQBsAGUAZAAiACwAIgB0AGEAbgBrACIAOgAiAGQAYQBtAGEAZwBlAHQAYQBrAGUAbgAiACwAIgByAGEAaQBkACIAOgAiAGQAYQBtAGEAZwBlACIAfQAsACIAZABlAHQAYQBpAGwAXwBkAGEAdABhACIAOgB7ACIAZABwAHMAIgA6AFsAIgBkAGEAbQBhAGcAZQAlACIALAAiAGUAbgBjAGQAcABzACIALAAiAGQAYQBtAGEAZwBlACIALAAiAGMAcgBpAHQAaABpAHQAJQAiACwAIgBEAGkAcgBlAGMAdABIAGkAdABQAGMAdAAiACwAIgBDAHIAaQB0AEQAaQByAGUAYwB0AEgAaQB0AFAAYwB0ACIALAAiAG0AYQB4AF8AaABpAHQAXwBmAG8AcgBtAGEAdAAiAF0ALAAiAGgAZQBhAGwAIgA6AFsAIgBoAGUAYQBsAGUAZAAlACIALAAiAGUAZgBmAGUAYwB0AGkAdgBlAF8AaABlAGEAbABfAHAAYwB0ACIALAAiAGUAbgBjAGgAcABzACIALAAiAGUAZgBmAGUAYwB0AGkAdgBlAF8AaABwAHMAIgAsACIAaABlAGEAbABlAGQAIgAsACIATwB2AGUAcgBIAGUAYQBsAFAAYwB0ACIALAAiAGMAcgBpAHQAaABlAGEAbAAlACIALAAiAG0AYQB4AF8AaABlAGEAbABfAGYAbwByAG0AYQB0ACIAXQAsACIAdABhAG4AawAiADoAWwAiAGQAYQBtAGEAZwBlAF8AdABhAGsAZQBuAF8AcABjAHQAIgAsACIAZABhAG0AYQBnAGUAdABhAGsAZQBuACIALAAiAGUAbgBjAHQAcABzACIALAAiAGgAZQBhAGwAcwB0AGEAawBlAG4AIgAsACIAQgBsAG8AYwBrAFAAYwB0ACIALAAiAGQAZQBhAHQAaABzACIAXQB9AH0A"
+      },
+      "UpdateInterval": 1,
+      "EnmityIntervalMs": 100,
+      "SortKey": "encdps",
+      "SortDesc": true,
+      "UpdateDpsDuringImport": false,
+      "EndEncounterAfterWipe": false,
+      "EndEncounterOutOfCombat": false,
+      "LogLines": false
+    },
+    "CactbotESConfig": {
+      "OverlayData": {
+        "options": {
+          "general": {
+            "CactbotUserDirectory": "C:\\Users\\nsoonkea\\AppData\\Roaming\\Advanced Combat Tracker\\Plugins\\cactbot-0.13.0\\cactbot\\user\\",
+            "ShowDeveloperOptions": true,
+            "DisplayLanguage": "en"
+          },
+          "raidboss": {
+            "AlertsLanguage": "en",
+            "BrowserTTS": false,
+            "TimelineLanguage": "en",
+            "triggers": {
+              "UWU Titan Gaols": {
+                "Output": "disabled"
+              },
+              "TEA Beta Radiant Final": {
+                "OutputStrings": {
+                  "north": "SPRINT NORTH",
+                  "east": "SPRINT EAST",
+                  "south": "SPRINT SOUTH",
+                  "west": "SPRINT WEST",
+                  "unknown": "SAFE SPOT FUCKED"
+                }
+              },
+              "TEA Beta Optical Spread": {
+                "OutputStrings": {
+                  "text": "SPREAD LOOSELY"
+                }
+              },
+              "TEA Beta Optical Stack": {
+                "OutputStrings": {
+                  "text": "STACK WITH YOUR COLOR"
+                }
+              },
+              "TEA Beta Instructions Callout": {
+                "OutputStrings": {
+                  "unknown": "NO CLONE",
+                  "purpleBait": "DARK BEACON: BEHIND D",
+                  "orangeBait": "LIGHT BEACON: GO NORTH (A)",
+                  "purpleNoTether": "BLUE: WEST -> EAST",
+                  "orangeNoTether": "YELLOW: TO NORTH (NO TETHER)",
+                  "orangeCloseTether": "YELLOW: TO NORTH (NEAR)",
+                  "purpleCloseTether": "BLUE: TO NORTH (NEAR)",
+                  "purpleFarTether": "BLUE: TO SOUTH (FAR)",
+                  "orangeFarTether": "ORANGE: TO NORTH (FAR)"
+                }
+              },
+              "TEA Alpha Instructions Callout": {
+                "OutputStrings": {
+                  "noDebuff": "STACK ON LEFT",
+                  "severity": "STACK ON RIGHT",
+                  "solidarity": "STACK ON LEFT",
+                  "defamation": "DEFAMATION: GO OPP PARTY"
+                }
+              },
+              "TEA Escape Detection": {
+                "OutputStrings": {
+                  "text": "DARK BEACON: BAIT WEST"
+                }
+              },
+              "TEA Ordained Stillness": {
+                "OutputStrings": {
+                  "text": "STOP STOP STOP"
+                }
+              },
+              "TEA Contact Regulation": {
+                "OutputStrings": {
+                  "text": "LIGHT BEACON: BAIT EAST"
+                }
+              },
+              "TEA Contact Prohibition": {
+                "OutputStrings": {
+                  "text": "STACK SLIGHTLY SOUTHWEST"
+                }
+              },
+              "TEA Escape Prohibition": {
+                "OutputStrings": {
+                  "text": "STACK SLIGHTLY NORTHWEST"
+                }
+              },
+              "TEA Beta Radiant": {
+                "OutputStrings": {
+                  "north": "NORTH SAFE",
+                  "east": "EAST SAFE",
+                  "south": "SOUTH SAFE",
+                  "west": "WEST SAFE"
+                }
+              },
+              "TEA Temporal Stasis No Buff": {
+                "OutputStrings": {
+                  "text": ""
+                }
+              }
+            }
+          }
+        }
+      },
+      "LastUpdateCheck": "2021-10-19T11:19:22.421449+08:00"
+    }
+  }
+}
